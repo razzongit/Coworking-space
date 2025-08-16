@@ -1,0 +1,118 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: #282828;
+    background-color: #eeeeee;
+}
+
+/* Layout */
+
+.general{
+    max-width: 870px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: #282828;
+    color: whitesmoke;
+    width: 100%;
+}
+
+.bg-color{
+    background-color: whitesmoke;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 25px;
+    gap: 10px;
+}
+
+.logo{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+
+.align-right{
+    margin-left:  auto;
+}
+
+.item{
+    position: relative;
+}
+
+button {
+    border: none;
+    color: whitesmoke;
+    background-color: #ca5e5e;
+    align-self: center;
+    padding: 10px 12px;
+    font-weight: 700;
+    font-size: 16px;
+}
+/* Typography */
+h1{
+    font-size: 48px;
+    font-weight: 400;
+    padding: 30px 25px;
+    margin: 0;
+}
+
+.caption{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 25px;
+}
+
+
+/* Images */
+
+.icon {
+    width: 25px;
+}
+
+
+.item-img{
+    width: 100%;
+    display: block;
+}
+
+
+
+.img-banner{
+    position: absolute;
+    background-color: #ca5e5e;
+    padding: 10px 10px;
+    color: whitesmoke;
+    top: 0;
+    left: 0;
+    font-size: 16px;
+}
+
+
+
+
+
+/* chat-box */
+
+.chatbox-bg{
+    display: flex;
+    position: fixed;
+    background-color: #ca895e;
+    bottom: 6px;
+    right: 6px;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 1px 1px 5px #999;
+}
+
+.chatbox-img{
+    width: 20px;
+}
