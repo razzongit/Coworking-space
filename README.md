@@ -1,19 +1,44 @@
-# Getting Started
-Install the dependencies and run the project
+# Coworking Space 
+
+Its a simple layout for a coworking space site.The main goal of this project was to practice and apply core CSS concepts I learned in the module, especially around writing clean, efficient, and maintainable styles.
+
+
+## 📸 Screenshot
+
+  
+![Screenshot](images/Screenshot.png)
+
+
+
+## 🛠️ Tech Used
+
+* HTML5 – Markup for the project.
+
+* CSS3 – Styles and layout practice.
+
+  
+## 📌 Key Takeaways
+
+* Learned how to balance between utility classes and specific selectors.
+
+* Improved understanding of positioning elements in different contexts.
+
+* Practiced writing cleaner CSS with minimal duplication.
+
+* Built confidence in targeting elements smartly with selectors.
+
+## 🚀 How to View
+
+1. Clone this repo:
+
+```bash
+    git clone github.com/razzongit/coworking-space
 ```
-npm install
-npm start
-```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+2. Open index.html in your browser
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+---
+## 📚 About the Course
 
-Happy Coding!
+This project is part of my progress in the Full Stack Developer Career Path on Scrimba.
